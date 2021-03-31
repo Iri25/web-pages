@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 700px;
+}
+
+header{
+    background-color: red;
+    height: 15%;
+}
+
+menu{
+    float: left;
+    background-color: yellow;
+    height: 80%;
+    width: 15%;
+}
+
+menuitem{
+    height: 15%;
+    background-color: yellow;
+    display: block;
+}
+
+
+menuitem:hover{
+    background-color: antiquewhite;
+}
+
+div.a {
+    background-color: green;
+    height: 80%;
+}
+
+footer{
+    background-color: pink;
+    height: 15%;
+}

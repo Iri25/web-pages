@@ -1,0 +1,41 @@
+#main {
+	border: solid;
+	width: 500px;
+	background: yellow;
+}
+
+#image1 {
+	width: 200px;
+	height: 200px;
+	background: url(mihai.jpg);
+	display: block;
+}
+
+#image2 {
+	width: 200px;
+	height: 200px;
+	background: url(vlad.jpg);
+}
+
+#image3 {
+	width: 200px;
+	height: 200px;
+	background: url(mircea.jpg);
+}
+
+#image4 {
+	width: 200px;
+	height: 200px;
+	background: url(stefan.jpg);
+}
+
+table {
+	margin: 30px;
+	display: inline-block;
+}
+
+p {
+	position: relative;
+	left: 220px;
+	top: -100px;
+}

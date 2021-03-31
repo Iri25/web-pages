@@ -1,0 +1,40 @@
+#main {
+	border: solid;
+	width: 700px;
+}
+
+#image1 {
+	width: 200px;
+	height: 200px;
+	background: url(mihai.jpg);
+	display: block;
+}
+
+#image2 {
+	width: 200px;
+	height: 200px;
+	background: url(vlad.jpg);
+}
+
+#image3 {
+	width: 200px;
+	height: 200px;
+	background: url(mircea.jpg);
+}
+
+#image4 {
+	width: 200px;
+	height: 200px;
+	background: url(stefan.jpg);
+}
+
+table {
+	margin: 50px;
+	display: inline-block;
+	background: cyan;
+	border: 10px solid cyan;
+}
+
+p {
+	text-align: center;
+}

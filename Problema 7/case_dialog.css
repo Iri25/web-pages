@@ -1,0 +1,33 @@
+ul.dialog {
+	list-style-type: none;
+	padding: 100px;
+}
+
+li {
+	min-height: 50px;
+	min-width: 50px;
+	border: solid;
+	border-radius: 15px 50px 30px;
+	box-shadow: 10px 10px 5px grey;
+	margin-bottom: 20px;
+	margin-left: 35px;
+	padding: 10px;
+}
+
+li:before {
+	background-image: url("human.png");
+	position: absolute;
+	left: 20px;
+	content: '';
+	height: 56px;
+	width: 123px;
+}
+
+li.bob:before {
+	width: 112px;
+	background-position: 127px 0px;
+}
+
+li.bob {
+	margin-left: 23px;
+}

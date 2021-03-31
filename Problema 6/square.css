@@ -1,0 +1,35 @@
+.wrapper {
+    display: inline-grid;
+    grid-template-columns: auto auto;
+    grid-row-gap: 1em;
+    grid-column-gap: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.text {
+    text-align: end;
+}
+
+
+.align {
+    background-image: url("http://www.hellenicaworld.com/Greece/ImagesGR/sq1.jpg");
+    background-size: 3em;
+    font-size: 1em;
+    letter-spacing: 2.45em;
+    height: 100%;
+    width: 100%;
+    font-family: Consolas;
+}
+
+#nume{
+    width: 53.5em;
+}
+
+#prenume{
+    width: 53.5em;
+
+}
+#cnp{
+    width: 38.5em;
+}

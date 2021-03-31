@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 700px;
+}
+
+header {
+    background-color: red;
+    height: 15%;
+}
+
+menu {
+    background-color: yellow;
+    height: 3%;
+    padding-right: 4%;
+    padding-top: 1%
+}
+
+menuitem {
+    float: left;
+    background-color: yellow;
+    vertical-align: button;
+    width:20%;
+    height:80%;
+    display:inline
+}
+
+menuitem:hover{
+    background-color: antiquewhite;
+}
+
+p{
+    display: inline-block;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+div.a{
+    background-color: green;
+    height: 80%;
+}
+
+footer{
+    background-color: pink;
+    height: 15%;
+}
