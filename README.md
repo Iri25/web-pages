@@ -1,4 +1,4 @@
-# web-pages-css
+# web-pages
 Web pages developed in HTML (Hyper Text Markup Language) and CSS (Cascading Style Sheets).
 
 The project contains 7 folders with different simple web pages, such as:
